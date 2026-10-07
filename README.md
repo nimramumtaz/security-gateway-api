@@ -20,6 +20,13 @@ Rotation · Role-Based Access Control (RBAC) · OWASP Hardening
 - **OWASP hardening**: Helmet security headers, strict CORS, XSS/NoSQL-injection
   sanitization on every request body/query/params
 
+## 📸 Screenshots
+
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/79146fac-38b1-4eae-91a1-9bfdbb983809" />
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/0da5459d-a0ca-499d-a5be-55ae16950c03" />
+<img width="1325" height="342" alt="Image" src="https://github.com/user-attachments/assets/668720fe-08c9-4a01-a0c1-cf62c70bbe55" />
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/e4a689f7-34ef-4170-86e8-153cc93244fc" />
+
 ## 🛠 Setup & Running Locally
 
 ```bash
